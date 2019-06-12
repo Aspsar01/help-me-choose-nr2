@@ -1,0 +1,39 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 150px;
+  background-color: #FADBD8;
+}
+
+h1 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: lighter;
+  font-size: 40px;
+  letter-spacing: 2px;
+  color: #424949;
+}
+
+.inputSection {
+  margin: 150px, 0px, 120px, 0px;
+  width: 400px;
+}
+
+button {
+  background-color: #F5B7B1;
+}
+
+.inputs{
+  width: inherit;
+  display: flex;
+  flex-direction: column;
+}
+
+input{
+  margin-top: 10px
+}
+
+.addOption{
+  margin-top: 10px
+}
